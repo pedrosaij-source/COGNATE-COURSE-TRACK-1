@@ -1,0 +1,3 @@
+<img width="1223" height="838" alt="image" src="https://github.com/user-attachments/assets/23cd237a-aa27-4577-9dc7-a3d1dc1a7ba1" />
+
+This circuit uses an Arduino Uno, a 4×4 keypad, and a 7-segment display. The keypad is connected to the Arduino's digital pins and is used to input numbers or commands. When a key is pressed, the Arduino reads the input and processes it. The 7-segment display is connected to the Arduino and shows the number or value entered through the keypad. A resistor is included to limit the current and protect the display. This setup is commonly used in simple password systems, calculators, and user input projects.
